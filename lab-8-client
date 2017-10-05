@@ -1,0 +1,6 @@
+---
+luckyWord: sunny
+---
+spring:
+  profiles: china
+luckyWord: china
