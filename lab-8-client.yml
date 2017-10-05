@@ -1,6 +1,4 @@
 ---
-luckyWord: sunny
----
-spring:
-  profiles: china
-luckyWord: china
+wordConfig:
+  luckyWord: Rabbit’s Foot
+  preamble: The lucky word is
